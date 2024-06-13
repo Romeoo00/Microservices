@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related PROD APIs "
+  contactDetails:
+    name: "Anna Keita - Product Owner"
+    email: "Anna@eazybank.com"
+  onCallSupport:
+    - (555) 888-1234
+    - (777) 777-1345

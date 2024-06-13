@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Lancine Keita - QALead"
+    email: "Lancine@eazybank.com"
+  onCallSupport:
+    - (888) 666-1234
+    - (876) 777-1345

@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Amina Koita - QALead"
+    email: "Amina@eazybank.com"
+  onCallSupport:
+    - (666) 666-1234
+    - (666) 777-1345
+
